@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 master
 
 
 line 1
+=======
+deleted merge master
+
+0.1
+>>>>>>> test-git-0.1
